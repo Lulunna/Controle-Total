@@ -1,0 +1,7 @@
+{
+  "name": "controle-total",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Controle de gastos pessoais com contas fixas, relatório em PDF e chat de IA.",
+  "engines": { "node": ">=18" }
+}
