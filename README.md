@@ -4,11 +4,6 @@ App de controle financeiro pessoal para o dia a dia: anota gastos e entradas, co
 
 **Demo:** [controle-total-five.vercel.app](https://controle-total-five.vercel.app/)
 
-<p>
-  <img src="1-inicio.png" width="240" alt="Tela inicial">
-  <img src="2-anotar.png" width="240" alt="Anotar gasto">
-  <img src="3-relatorio.png" width="240" alt="Relatório">
-</p>
 
 ## O que faz
 
